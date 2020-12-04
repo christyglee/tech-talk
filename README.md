@@ -19,7 +19,7 @@ Our goal is for you to ask questions, exchange ideas, and connect with each othe
 * [Visit Tech Talk](https://tech-talk-wit-2.herokuapp.com/)
 
 ### Sample login
-* email: jane@gmail.com
+* email: janedoe@gmail.com
 * password: password123
 
 ## Built With
