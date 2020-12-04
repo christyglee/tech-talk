@@ -16,7 +16,7 @@ Our goal is for you to ask questions, exchange ideas, and connect with each othe
 ![Tech Talk](client/public/signin.gif)
 
 ## Deployed Link
-* [Visit Tech Talk](https://tech-talk-wit.herokuapp.com/)
+* [Visit Tech Talk](https://tech-talk-wit-2.herokuapp.com/)
 
 ### Sample login
 * email: jane@gmail.com
